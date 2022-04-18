@@ -46,9 +46,9 @@ class _CameraPageState extends State<CameraPage> {
             SizedBox(
               height: 16,
             ),
-            Text(" Rafi Khairuna Wibisono "),
-            Text(" NIM : 123190091 "),
-            Text(" Yogyakarta "),
+            Text(" Muhammad Hisyam "),
+            Text(" NIM : 123190143 "),
+            Text(" Sleman, Yogyakarta "),
             SizedBox(
               height: 16,
             ),
